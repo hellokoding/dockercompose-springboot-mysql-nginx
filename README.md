@@ -1,7 +1,7 @@
-# Docker Compose with Spring Boot, MongoDB, NGINX
+# Docker Compose with Spring Boot, MySQL, NGINX
 
 ## What you'll build
-- A simple Spring Boot application  with MongoDB and NGINX running inside Docker containers 
+- A simple Spring Boot application  with MySQL and NGINX running inside Docker containers 
 
 ## What you'll need
 - Docker CE
@@ -10,7 +10,7 @@
 - Docker
 - Java
 - Spring Boot
-- MongoDB
+- MySQL
 - NGINX
 - Maven
 
