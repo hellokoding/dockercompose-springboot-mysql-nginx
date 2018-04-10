@@ -16,4 +16,4 @@
 
 ## Run
 - Run command `docker-compose up`
-- Access to http://localhost/
+- Access to http://localhost:8084/
